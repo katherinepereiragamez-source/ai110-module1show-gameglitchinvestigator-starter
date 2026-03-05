@@ -1,3 +1,5 @@
+#Reflection:
+
 # 🎮 Game Glitch Investigator: The Impossible Guesser
 
 ## 🚨 The Situation
